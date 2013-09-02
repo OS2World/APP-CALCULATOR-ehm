@@ -9,11 +9,11 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* Qt libraries
 
 AUTHORS
 ===============
-* 
+* Port: Salvador Parra Camacho
 
 LINKS
 ===============
