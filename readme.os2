@@ -1,0 +1,21 @@
+ehm 0.6   README 09.03.2011
+
+ehm is a little calculator written with QT4.
+
+This is a port for OS/2. The original project is in:
+
+http://code.google.com/p/ehm/
+
+Note
+
+Since 0.3 version, I've to change the original sources adding the
+following lines to ehm.cpp:
+
+#if defined(__OS2__)
+  #define log2(value) log((double)value)/log(2.0)
+#endif
+
+Contact
+
+Salvador Parra Camacho
+sparrac at gmail dot com
